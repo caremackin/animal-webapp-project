@@ -1,0 +1,12 @@
+img{
+    max-height:300px ;
+}
+
+.centered-card {
+    align-items: center;
+    text-align: center;
+  }
+
+.move-right{
+    margin-left: 10px;
+}
