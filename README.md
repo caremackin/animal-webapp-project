@@ -26,7 +26,7 @@ This full-stack application was developed to provide an interactive and dynamic 
 
 ## Getting Started
 
-### Animal Assignment Frontend
+### Animal Webapp Frontend
 
 #### To Run Frontend:
 
@@ -41,6 +41,8 @@ This full-stack application was developed to provide an interactive and dynamic 
    ng serve
 
 The application will be accessible at http://localhost:4200.
+
+### Animal Webapp Backend
 
 #### To Run Backend:
 
