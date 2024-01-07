@@ -17,7 +17,7 @@ I built this project to demonstrate proficiency in HTML, CSS, Javascript, Angula
 
 - **Animal Info Retreival:** The backend is powered by **Node.js**. Every time the user selects an animal, real-time data is retrieved via the **SQLite** database. 
 
-- **Secure HTTPS Communication:** The client-server communication is secured through HTTPS, prioritizing the privacy and security of user interactions.
+- **Secure HTTPS Communication:** The client-server communication is secured through HTTPS.
 
 ## Demo
 ![Webapp function](https://github.com/caremackin/animal-webapp-project/blob/main/animal_webapp/gif/undefined-high.gif)
